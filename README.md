@@ -1,7 +1,7 @@
 
 ![waving](https://capsule-render.vercel.app/api?type=waving&height=200&text=SeongMok%20Lee&fontColor=FFFFFF&animation=twinkling&fontAlign=50&fontAlignY=40&color=0:BCE3FD,100:C091F6&section=header)
 
-### Experiences
+### 🌱Experiences
 
 Bachelor Degree
 - Mar 2018 - Sep 2023(expected). School of Conputer science, Chungbuk National Univ</br>
@@ -12,7 +12,7 @@ Undergraduate researcher
 
 ---
 
-### Profile
+### 💻Profile
 <!-- 깃헙 스탯 -->
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=CocoIsCat)](https://github.com/anuraghazra/github-readme-stats)
 
@@ -24,7 +24,7 @@ Undergraduate researcher
 -->
 
 ---
-### Contact
+### 📮Contact
 [Email : demy176@naver.com](demy176@naver.com)
 
 
