@@ -1,5 +1,5 @@
 
-![waving](https://capsule-render.vercel.app/api?type=waving&height=200&text=SeongMok%20Lee&fontColor=FFFFFF&animation=twinkling&fontAlign=50&fontAlignY=40&color=0:BCE3FD,100:C091F6&section=header)
+![waving](https://capsule-render.vercel.app/api?type=waving&height=300&text=SeongMok%20Lee&fontColor=FFFFFF&animation=twinkling&fontAlign=50&fontAlignY=40&color=0:BCE3FD,100:C091F6&section=header)
 
 ### 🌱Experiences
 
