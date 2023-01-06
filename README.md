@@ -25,7 +25,7 @@
 
 ---
 ### 📮Contact
-[Email : demy176@naver.com](demy176@naver.com)
+Email : <demy176@naver.com>
 
 
 <!--
@@ -45,4 +45,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![Footer](https://capsule-render.vercel.app/api?type=waving&color=0:C091F6,100:BCE3FD&text=%20%20&fontAlign=30&height=200&section=footer)
+![Footer](https://capsule-render.vercel.app/api?type=waving&color=0:C091F6,100:BCE3FD&text=%20%20&fontAlign=30&height=300&section=footer)
