@@ -12,7 +12,9 @@
 
 ---
 
-### 💻Profile
+### 💻Tech Level
+<div align="center">
+  
 <!-- 깃헙 스탯 -->
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=CocoIsCat)](https://github.com/anuraghazra/github-readme-stats)
 
@@ -22,9 +24,11 @@
 <!-- 언어 스탯
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CocoIsCat&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 -->
+</div>
 
 ---
 ### 📮Contact
+  
 Email : <demy176@naver.com>
 
 
