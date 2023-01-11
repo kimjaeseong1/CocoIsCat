@@ -4,7 +4,7 @@
 ### 🌱Experiences
 
 **Bachelor Degree**
-- **Mar 2018 - Sep 2023(expected)** School of Conputer science, Chungbuk National University</br>
+- **Mar 2018 - Sep 2023(expected)** School of Computer science, Chungbuk National University</br>
 
 **Undergraduate researcher**
 - **Apr 2021 - Jun 2022** Intelligent Software Lab at Chungbuk National University's School of Computer Science
