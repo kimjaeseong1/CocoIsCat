@@ -15,9 +15,10 @@
 ### 💻Tech Level
 <div align=left>
   
-    [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=CocoIsCat)](https://github.com/anuraghazra/github-readme-stats)
-
-    [![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=demy176)](https://solved.ac/profile/demy176)
+<!-- 깃헙 스탯 -->
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=CocoIsCat)](https://github.com/anuraghazra/github-readme-stats)
+<!-- 백준 스탯 -->
+[![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=demy176)](https://solved.ac/profile/demy176)
   
 </div>
 
