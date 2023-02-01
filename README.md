@@ -4,11 +4,11 @@
 
 ### Hi there  👋
   
-  - 🔭 I’m currently look for a job
-  - 🌱 I’m currently learning `BackEnd Engineering`
+  - 🔭 I’m currently looking for a job
+  - 🌱 I’m currently learning `BackEnd Engineering` with `Spring`, `Spring Boot` and `Spring Data JPA`
   - 📫 How to reach me [![Email Badge](https://img.shields.io/badge/Naver-6DB33F?style=flat&logo=Naver&logoColor=white)](mailto:demy176@naver.com) 
 [![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=Gmail&logoColor=white)](mailto:a77771133@gmail.com)
-  - ✏️ My Blog [![Tistory Badge](https://img.shields.io/badge/Tech%20Blog-555263?style=flat&logoColor=white)](https://cocoiscat.tistory.com/)
+  - ✏️ My Blog [![Tistory Badge](https://img.shields.io/badge/Tech%20Blog-555263?style=flat&logo=Tistory&logoColor=white)](https://cocoiscat.tistory.com/)
 ---
 
 ### 🌱Experiences🌱
@@ -26,11 +26,15 @@
   
 <div align = left>
   
-  **Used as the Main**
+  **Use as the Main**
   
   <img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=for-the-badge&logo=Spring Boot&logoColor=white">
   <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=Spring&logoColor=white">
   <img src="https://img.shields.io/badge/Thymeleaf-005F0F?style=for-the-badge&logo=Thymeleaf&logoColor=white">
+  </br>
+  <img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=java&logoColor=white">
+  <img src="https://img.shields.io/badge/Spring Data JPA-6DB33F?style=for-the-badge&logo=Spring Data JPA&logoColor=white">
+  <img src="https://img.shields.io/badge/MyBatis-D14836?style=for-the-badge&logo=MyBatis&logoColor=white">
   </br>
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=white">
   <img src="https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=MariaDB&logoColor=white">
@@ -43,16 +47,12 @@
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=Git&logoColor=white">
   <img src="https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=Slack&logoColor=white">
   <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=Notion&logoColor=white">
-  <img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=java&logoColor=white">
- 
+
   <img align='right' src="http://mazassumnida.wtf/api/v2/generate_badge?boj=demy176">
 
   </br>
-  </br>
   
   **Have Experience**
-  
-
   
   <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=C&logoColor=white">
   <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white">
