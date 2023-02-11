@@ -73,5 +73,4 @@
   -->
 </div>
 
-
 ![Footer](https://capsule-render.vercel.app/api?type=waving&color=0:C091F6,100:BCE3FD&text=%20%20&fontAlign=30&height=250&section=footer)
