@@ -18,6 +18,9 @@
 **Undergraduate Researcher**
 - **Apr 2021 - Jun 2022** Intelligent Software Lab at Chungbuk National University's School of Computer Science
 
+**K-Digital Training**
+- **Sep 2022 - Apr 2023(expected)** Fintech Service Back-End Developer Training Course, FastCampus
+
 
 ---
 <img align='right' src="https://github-readme-stats.vercel.app/api?username=CocoIsCat">
