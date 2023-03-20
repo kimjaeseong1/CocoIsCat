@@ -6,8 +6,7 @@
   
   - 🔭 I’m currently looking for a job
   - 🌱 I’m currently learning `BackEnd Engineering` with `Spring`, `Spring Boot` and `Spring Data JPA`
-  - 📫 How to reach me [![Email Badge](https://img.shields.io/badge/Naver-6DB33F?style=flat&logo=Naver&logoColor=white)](mailto:demy176@naver.com) 
-[![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=Gmail&logoColor=white)](mailto:a77771133@gmail.com)
+  - 📫 How to reach me[![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=Gmail&logoColor=white)](mailto:a77771133@gmail.com)
   - ✏️ My Blog [![Tistory Badge](https://img.shields.io/badge/Tech%20Blog-555263?style=flat&logo=Tistory&logoColor=white)](https://cocoiscat.tistory.com/)
 ---
 
